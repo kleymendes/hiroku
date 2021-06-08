@@ -25,6 +25,7 @@ const alunos: any = [
     }
 ];
 
+// olá
 app.get('/growdevers', (request: Request, response: Response) => {
     // const { idade } = request.query;
 
